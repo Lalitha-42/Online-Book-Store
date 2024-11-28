@@ -1,0 +1,109 @@
+[
+    {
+        "id": 1,
+        "price": 118,
+        "image": "img\\bk1.jpg"
+    },
+
+    {
+        "id": 2,
+        "price": 150,
+        "image": "img\\bk2.jpg"
+    },
+
+    {
+        "id": 3,
+        "price": 120,
+        "image": "img\\bk3.jpg"
+    },
+
+    {
+        "id": 4,
+        "price": 200,
+        "image": "img\\bk4.jpg"
+    },
+
+    {
+        "id": 5,
+        "price": 266,
+        "image": "img\\bk5.jpg"
+    },
+
+    {
+        "id": 6,
+        "price": 277,
+        "image": "img\\bk6.jpg"
+    },
+
+    {
+        "id": 7,
+        "price": 80,
+        "image": "img\\bk7.jpg"
+    },
+    
+    {
+        "id": 8,
+        "price": 77,
+        "image": "img\\bk8.jpg"
+    },
+
+    {
+        "id": 9,
+        "price": 90,
+        "image": "img\\bk9.jpg"
+    },
+
+    {
+        "id": 10,
+        "price": 310,
+        "image": "img\\bk10.jpg"
+    },
+
+    {
+        "id": 11,
+        "price": 333,
+        "image": "img\\bk11.jpg"
+    },
+
+    {
+        "id": 12,
+        "price": 355,
+        "image": "img\\bk12.jpg"
+    },
+
+    {
+        "id": 13,
+        "price": 415,
+        "image": "img\\bk13.jpg"
+    },
+
+    {
+        "id": 14,
+        "price": 408,
+        "image": "img\\bk14.jpg"
+    },
+
+    {
+        "id": 15,
+        "price": 411,
+        "image": "img\\bk15.jpg"
+    },
+
+    {
+        "id": 16,
+        "price": 510,
+        "image": "img\\bk16.jpg"
+    },
+
+    {
+        "id": 17,
+        "price": 533,
+        "image": "img\\bk17.jpg"
+    },
+
+    {
+        "id": 18,
+        "price": 599,
+        "image": "img\\bk18.jpg"
+    }
+]

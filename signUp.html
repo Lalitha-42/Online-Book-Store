@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url('img\\pexels-nietjuh-1809340.jpg');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+            
+            
+        }
+        #signIn-form{
+            margin-top: 300px;
+            background-color: palevioletred;
+            margin-left: 545px;
+            margin-right: 30%;
+        }
+        #submit{
+            background-color: black;
+            
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            height: 20px;
+            border: 3px solid green;
+        }
+        #submit a{
+            text-decoration: none;
+            color: white;
+        }
+
+        input[type=text], input[type=password], #Address, #phn  {
+  width: 80%;
+  padding: 10px;
+  margin: 5px 0 22px 35px;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: orange;
+}
+label{
+    margin-left: 35px;
+}
+h2, #para{
+    text-align: center;
+}
+
+    </style>
+</head>
+<body id="signIn">
+    <div id="signIn-form">
+        <h2>Sign Up</h2>
+        <p id="para">Please fill below details</p>
+    <p> <label>First Name</label> <br><input type="text" id="fname" name="username" placeholder="first name"> </p> 
+    <p> <label>Last Name</label> <br><input type="text" id="lname" name="username" placeholder="last name"> </p>  
+    <p> <label>Phone Num</label> <br><input type="text" id="phn" name="username" placeholder="Phone-number"> </p>
+    <p> <label>Address</label> <br><textarea name="Address" id="Address" placeholder="Address"></textarea> </p>
+    <p> <label>New Username</label> <br><input type="text" id="name" name="username" placeholder="new username" required> </p>
+     <p><label>Password</label> <br><input type="password" id="password" name="Password" placeholder="password" required></p>
+     <p><label>Retype Password</label> <input type="password" id="password" name="Repeat-Password" placeholder=" Retype password" required></p><br>
+     
+     <button id="submit"><a href="signin.html">Submit</a></button>
+    </div>
+</body>
+</html>
